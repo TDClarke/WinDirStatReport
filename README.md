@@ -2,4 +2,4 @@ Description: Produces a Report using WinDirStat in Autopsy Sleuthkit NFAT dataso
 Author: Thomas Clarke\
 Minimum Autopsy version: 4.23.1\
 Source Code: https://github.com/TDClarke/WinDirStatReport/ \
-License: GNU 2.0\
+License: GNU 2.0
